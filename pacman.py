@@ -154,7 +154,8 @@ def move():
         if abs(pacman - point) < 20:
             return
 
-    ontimer(move, 100)
+    #El segundo parametro controla la  velocidad
+    ontimer(move, 25)
 
 
 def change(x, y):
