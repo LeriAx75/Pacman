@@ -134,6 +134,7 @@ def move():
         if valid(point + course):
             point.move(course)
         else:
+            """Se calcula el movimiento de fantasma que lo aceracará más a Pacman"""
             options = [
                 vector(5, 0),
                 vector(-5, 0),
