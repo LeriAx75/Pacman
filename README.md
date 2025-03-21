@@ -1,5 +1,6 @@
-# Código original de pacman.py
 
-Se ha modificado la forma y los colores del tablero del juego
+# Código de pacman.py modificado para:
+- que los fantasmas tengan un comportamiento más inteligente
+- tenga un tablero modificado
+- que los fatasmas se muevan a mayor velocidad
 
-La velocidad de los fantasmas u jugadores ha aumentado
